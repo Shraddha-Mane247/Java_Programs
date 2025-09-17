@@ -1,1 +1,1 @@
-All the java codes are uploaded here.
+All the java programs are uploaded here.
